@@ -1,3 +1,4 @@
+![1723137271924](https://github.com/user-attachments/assets/1efba512-f6fe-4718-a054-1eddc9da0045)
 # Building a Pipeline-as-Code Infrastructure in Jenkins: A Learning Journey
 Recently, I completed a comprehensive project focused on building a pipeline-as-code infrastructure in Jenkins. This was an exciting endeavour that involved a wide range of DevOps tools and practices to create a streamlined, automated development and deployment process. Here's a closer look at the key steps I took and the technologies I utilized to bring this project to life.
 
@@ -22,3 +23,4 @@ Version control the CI/CD pipeline, allowing for better collaboration and transp
 Make the pipeline more flexible and adaptable to changes in requirements or infrastructure.
 Implement complex workflows with stages for building, testing, and deploying the application.
 The pipeline-as-code approach made it easier to manage and maintain the CI/CD process, reducing the risk of configuration drift and making it simpler to replicate the pipeline in different environments.
+
